@@ -134,3 +134,4 @@ Note that the order operation type is capitalized.
 Questions, comments, criticisms, enhancements?
 ----------------------------------------------
 Open an issue/make a pull request/etc.
+Make pull request
